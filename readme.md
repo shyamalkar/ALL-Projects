@@ -30,3 +30,4 @@ command :- code .
 `Remember if this command not working then you should try - cmd + shift + 0 ` search -> shell -> Give password -> then -> restart the terminal . 
 
 
+o   oQUXFNX2 WIRUB F#
